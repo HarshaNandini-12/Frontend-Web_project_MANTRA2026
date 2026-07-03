@@ -63,9 +63,9 @@ Future Improvements
 - Add more courses and resources.
 
 AUTHOR
-Harsha Nandini Raghupathi
-Section-4
-CDS/2025/1232
+-Harsha Nandini Raghupathi
+-Section-4
+-CDS/2025/1232
 
-License
+License->
 This project is created for educational and learning purposes.
