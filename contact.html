@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Contact</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+<h1>Student Registration</h1>
+</header>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="courses.html">Courses</a>
+<a href="gallery.html">Gallery</a>
+<a href="contact.html">Contact</a>
+</nav>
+
+<form onsubmit="return register()">
+
+<input type="text" placeholder="Student Name" required><br><br>
+
+<input type="text" placeholder="Study (10th / Inter / Degree)" required><br><br>
+
+<select required>
+<option>Select Course</option>
+<option>Python</option>
+<option>Java</option>
+<option>MS Office</option>
+<option>Web Development</option>
+</select><br><br>
+
+<button type="submit">Register</button>
+
+</form>
+
+<script>
+function register(){
+alert("Registration Successful!");
+return false;
+}
+</script>
+
+</body>
+</html>
