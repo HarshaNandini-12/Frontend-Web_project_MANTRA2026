@@ -5,7 +5,7 @@ Frontend Website
 
 Code Craft Academy is a simple frontend educational website developed using HTML5 and CSS3. It provides a clean and user-friendly interface where students can explore courses, view information, browse the gallery, and register through a simple form.
 
-Features
+FEATURES
 
 - Responsive design
 - Home page
@@ -18,7 +18,7 @@ Features
 - SEO-friendly structure
 - Fast loading pages
 
-Technologies Used
+TECHNOLOGIES USED
 
 - HTML
 - CSS
@@ -34,11 +34,11 @@ SEO Features
 - Fast page loading
 - Search engine indexing support
 
-Live Demo
+LIVE WEBSITE
 
 https://cc-academy.netlify.app
 
-Project Structure
+PROJECT STRUCTURE
 
 Code-Craft-Academy/
 ├── index.html
@@ -62,10 +62,10 @@ Future Improvements
 - Improve animations and UI.
 - Add more courses and resources.
 
-Author
-
+AUTHOR
 Harsha Nandini Raghupathi
+Section-4
+CDS/2025/1232
 
 License
-
 This project is created for educational and learning purposes.
