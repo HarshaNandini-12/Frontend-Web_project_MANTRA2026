@@ -3,7 +3,7 @@
 Code Craft Academy
 Frontend Website
 
-Code Craft Academy is a simple frontend educational website developed using HTML5 and CSS3. It provides a clean and user-friendly interface where students can explore courses, view information, browse the gallery, and register through a simple form.
+Code Craft Academy is a simple frontend educational website developed using HTML and CSS. It provides a clean and user-friendly interface where students can explore courses, view information, browse the gallery, and register through a simple form.
 
 FEATURES
 
